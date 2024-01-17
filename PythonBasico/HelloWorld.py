@@ -12,3 +12,14 @@ contador = 0
 contador += 1
 
 print(contador)
+
+# multiple assignment 
+
+name, age, estudiando = "David", 34, True
+print(name, age, estudiando)
+
+# If all variables have the same value
+
+Name1 = Name2 = Name3 = Name4 = 20
+print(Name1, Name2, Name3, Name4)
+
