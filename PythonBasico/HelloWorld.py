@@ -23,3 +23,4 @@ print(name, age, estudiando)
 Name1 = Name2 = Name3 = Name4 = 20
 print(Name1, Name2, Name3, Name4)
 
+
